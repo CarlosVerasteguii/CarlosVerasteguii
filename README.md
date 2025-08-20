@@ -8,7 +8,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosVerasteguii&theme=react)](https://git.io/streak-stats)
 
 ### Featured Project  
-- **[GATI-C](https://github.com/CarlosVerasteguii/GATI-C)** – A full-stack TypeScript/Next.js + Tailwind-powered app that implements structured engineering workflows: uses GitFlow, conventional commits, includes a robust contribution guide, changelog management, Docker setup, and more. This reflects my passion for scalable architecture and collaboration. :contentReference[oaicite:1]{index=1}
+- **[GATI-C](https://github.com/CarlosVerasteguii/GATI-C)** – A full-stack TypeScript/Next.js + Tailwind-powered app that implements structured engineering workflows: uses GitFlow, conventional commits, includes a robust contribution guide, changelog management, Docker setup, and more. This reflects my passion for scalable architecture and collaboration. 
 
 ### Skills & Expertise  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
