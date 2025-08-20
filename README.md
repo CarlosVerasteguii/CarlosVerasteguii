@@ -5,7 +5,8 @@
 - Strong expertise in **CLI tools**, **AI prompting**, **TypeScript**, **Next.js**, **Tailwind CSS**, and clean development workflows (GitFlow, Conventional Commits).
 
 ### GitHub Activity  
-[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosVerasteguii&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosVerasteguii&theme=react&hide_border=true)](https://git.io/streak-stats)
+
 
 ### Featured Project  
 - **[GATI-C](https://github.com/CarlosVerasteguii/GATI-C)** – A full-stack TypeScript/Next.js + Tailwind-powered app that implements structured engineering workflows: uses GitFlow, conventional commits, includes a robust contribution guide, changelog management, Docker setup, and more. This reflects my passion for scalable architecture and collaboration. 
